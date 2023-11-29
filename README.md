@@ -1,4 +1,2 @@
 # github-workflow
-Change is change is change
-
-"There is nothing permanent, except change"
+To improve is to change
